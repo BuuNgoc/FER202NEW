@@ -4,10 +4,10 @@ import EmployeeTable from "./EmployeeTable";
 import AverageAge from "./AverageAge";
 import EmployeeDropdown from "./EmployeeDropdown";
 import ITEmployees from "./ITEmployees";
-import SortedEmployees from "./SortedEmployees";
+import SearchEmployee from "./SearchEmployee";
 import GroupedEmployees from "./GroupedEmployees";
 import IsAnyTeenager from "./IsAnyTeenager";
-import SearchEmployee from "./SearchEmployee";
+import SortedEmployees from "./SortedEmployees";
 
 
 function App() {

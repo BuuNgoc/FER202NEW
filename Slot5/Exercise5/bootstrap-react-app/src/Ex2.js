@@ -40,11 +40,12 @@ function Ex2() {
 
       {/* CONTENT */}
       <div className="content row text-center m-5 flex-grow-1">
-        <h1>About</h1>
-        <p>This is the about section of the website</p>
         <h1>Contact</h1>
         <p>For any inquiries, please contact us at example@example.com.</p>
-      </div>
+        <h1>About</h1>
+        <p>This is the about section of the website</p>
+        
+    </div>
 
       {/* FOOTER */}
       <footer

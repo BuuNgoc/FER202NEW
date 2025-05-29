@@ -99,7 +99,7 @@ function Ex3() {
               <img src={img} alt={`Student ${index + 1}`} className="img-fluid" />
               <div className="student-info container d-flex flex-wrap justify-content-between align-items-center px-5">
                 <p className="w-100">DE16018{index + 1}</p>
-                <p>{["Nguyễn Hữu Quốc Khánh", "Choy Vĩnh Thiện", "Đỗ Nguyên Phúc", "Lê Hoàng Minh"][index]}</p>
+                <p>{["Nguyễn Hữu Quốc Khánh", "Chu Vĩnh Thiện", "Đỗ Nguyên Phúc", "Lê Hoàng Minh"][index]}</p>
                 <p>{["Đà Nẵng", "Quảng Nam", "Quảng Nam", "Đà Nẵng"][index]}</p>
               </div>
               <div className="checkboxes d-flex flex-wrap justify-content-between align-items-center px-5">

@@ -2,6 +2,7 @@ import NameList from "./components/NameList";
 import UserProfile from "./components/UserProfile";
 import Welcome from "./components/Welcome";
 import React from "react";
+import 'bootstrap/dist/css/bootstrap.min.css';
 import { Container, Row, Col } from "react-bootstrap";
 // Dùng Container, Row, Col để bố trí các Card
 import StudentCard from "./components/StudentCard"; // Import StudentCard component

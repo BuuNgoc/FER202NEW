@@ -1,0 +1,16 @@
+/* src/components/QuizApp.css */
+
+.fade-slide {
+  animation: fadeSlideIn 0.5s ease-in-out;
+}
+
+@keyframes fadeSlideIn {
+  from {
+    opacity: 0;
+    transform: translateY(15px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}

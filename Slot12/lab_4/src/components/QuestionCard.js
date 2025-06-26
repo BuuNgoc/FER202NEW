@@ -26,6 +26,7 @@ function QuestionCard({ questionObj, qIndex, onAnswer, selectedAnswer, showResul
             >
               {ans}
             </Button>
+
           </div>
         ))}
       </Card.Body>

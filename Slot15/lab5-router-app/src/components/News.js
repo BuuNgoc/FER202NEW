@@ -14,7 +14,7 @@ function News() {
               <Card.Body>
                 <Card.Title>{news.title}</Card.Title>
                 <Card.Text>{news.description}</Card.Text>
-                <Button variant="primary">Read More</Button>
+                <Button variant="primary">Read More</Button>  
               </Card.Body>
             </Card>
           </Col>

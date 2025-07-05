@@ -23,7 +23,7 @@ function Contact() {
             required
             type="text"
             placeholder="First name"
-            defaultValue="Mark"
+          
           />
           <Form.Control.Feedback>Looks good!</Form.Control.Feedback>
         </Form.Group>
@@ -34,7 +34,7 @@ function Contact() {
             required
             type="text"
             placeholder="Last name"
-            defaultValue="Otto"
+            
           />
           <Form.Control.Feedback>Looks good!</Form.Control.Feedback>
         </Form.Group>

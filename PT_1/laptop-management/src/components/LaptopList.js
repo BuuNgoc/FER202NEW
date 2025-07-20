@@ -37,6 +37,7 @@ const LaptopList = () => {
                 <Card.Text><strong>Year:</strong> {lap.year}</Card.Text>
                 <Card.Text><strong>Price:</strong> {lap.price}</Card.Text>
                 <Button as={Link} to={`/laptops/${lap.id}`} variant="primary">View Details</Button>
+  
               </Card.Body>
             </Card>
           </Col>
